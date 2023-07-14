@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/stevearc/overseer.nvim/compare/v1.0.0...v1.1.0) (2023-07-14)
+
+
+### Features
+
+* add buffer-local variable linking buffers to task ID ([#169](https://github.com/stevearc/overseer.nvim/issues/169)) ([4d046a1](https://github.com/stevearc/overseer.nvim/commit/4d046a116c80db4300a66a58288a6b75b5a8c54f))
+
 ## 1.0.0 (2023-06-27)
 
 
